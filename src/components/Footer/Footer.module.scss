@@ -1,0 +1,12 @@
+@import "@styles/settings/__settings";
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap");
+.footer {
+  width: 100%;
+  color: white;
+  background-color: $color-brand-blue-medium;
+  font-family: "Orbitron", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em 0;
+}
